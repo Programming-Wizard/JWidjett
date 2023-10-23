@@ -2,4 +2,4 @@
 
 
 Level 1 : 
-![image](JFXWidget/src/resources/logo.png)
+![image](JFXWidget/src/resources/finalImage.png)
