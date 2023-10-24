@@ -40,7 +40,7 @@ public class Main extends Application {
 			Image icon = new Image("/resources/logo.png");
 			scene.getStylesheets().add(getClass().getResource("application.css").toExternalForm());
 			primaryStage.initStyle(StageStyle.TRANSPARENT);
-			primaryStage.setX(480.4);
+			primaryStage.setX(460.4);
 			primaryStage.setY(80.6);
 			primaryStage.getIcons().add(icon);
 			primaryStage.setScene(scene);
